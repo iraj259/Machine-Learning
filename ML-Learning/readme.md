@@ -1,0 +1,1 @@
+Day 1 was all about the basics of ML. Then I learned the difference b/w AI/ML/DL and the difference b/w superVised and unsupervised learning and their types.
